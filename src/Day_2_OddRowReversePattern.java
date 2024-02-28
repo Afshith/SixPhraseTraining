@@ -24,3 +24,10 @@ public class Day_2_OddRowReversePattern {
         }
     }
 }
+/* for n = 6
+1
+2 3
+6 5 4
+7 8 9 10
+15 14 13 12 11
+16 17 18 19 20 21*/
