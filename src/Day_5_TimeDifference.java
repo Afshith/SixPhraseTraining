@@ -10,7 +10,7 @@ public class Day_5_TimeDifference {
         }
         else{
             answer = totalSecondsTwo-totalSecondsOne;
-        }
+        }//
         int resultHour = answer / 3600;
         int resultMinutes = (answer % 3600)/60;
         int resultSeconds = (answer / 3600)%60;
